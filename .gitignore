@@ -4,3 +4,4 @@ venv
 /__pycache__/
 venv/*
 .vscode
+__init__.py
